@@ -8,10 +8,10 @@ Gbox is a multi-platform instrumented application focused on Android. Our goal i
 
 
 
-               (BETA) : [https://drive.google.com/uc?export=download&id=1EQeeeit4uNuTBdm872FRwkDCmoaJqdgy](https://drive.usercontent.google.com/download?id=1EQeeeit4uNuTBdm872FRwkDCmoaJqdgy&export=download&authuser=2&confirm=t&uuid=2cb38f36-869f-4752-8867-8fc915757cdc&at=APZUnTVTdhN7eBEpZnlI6lf6AhUc:1723266569414)
+               (BETA) :https://drive.usercontent.google.com/download?id=1EQeeeit4uNuTBdm872FRwkDCmoaJqdgy&export=download&authuser=2&confirm=t&uuid=2cb38f36-869f-4752-8867-8fc915757cdc&at=APZUnTVTdhN7eBEpZnlI6lf6AhUc:1723266569414
 
 
 
 
 
-               (STABLE) : [https://drive.google.com/uc?export=download&id=18uDbcbKhD_QjcK-wpFrOO0VOc2nGrXrE](https://drive.usercontent.google.com/download?id=18uDbcbKhD_QjcK-wpFrOO0VOc2nGrXrE&export=download&authuser=2&confirm=t&uuid=e2d3d8d6-432a-4886-8d74-6f839b573a3c&at=APZUnTXI350FXZKZAJj1NGEX0gge:1723266554809)
+               (STABLE) : https://drive.usercontent.google.com/download?id=18uDbcbKhD_QjcK-wpFrOO0VOc2nGrXrE&export=download&authuser=2&confirm=t&uuid=e2d3d8d6-432a-4886-8d74-6f839b573a3c&at=APZUnTXI350FXZKZAJj1NGEX0gge:1723266554809
